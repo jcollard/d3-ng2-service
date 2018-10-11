@@ -1,6 +1,6 @@
 {
   "name": "d3-ng2-service",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "A D3 service for use with Angular.",
   "main": "index.js",
   "jsnext:main": "index.js",
@@ -12,8 +12,7 @@
     "es5": "tsc --project ./tsconfig.es5.json",
     "es2015": "tsc --project ./tsconfig.json",
     "lint": "tslint -c tslint.json --project tsconfig.json",
-    "prepublish": "npm run build",
-    "prepare": "npm run build",  
+    "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
