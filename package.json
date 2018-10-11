@@ -12,7 +12,7 @@
     "es5": "tsc --project ./tsconfig.es5.json",
     "es2015": "tsc --project ./tsconfig.json",
     "lint": "tslint -c tslint.json --project tsconfig.json",
-    "prepare": "npm run build",
+    "prepare": "BREAK BREAK BREAK",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
